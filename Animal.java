@@ -18,3 +18,4 @@ public abstract class Animal {
     public String getColor(){
         return this.color;
     }
+}
